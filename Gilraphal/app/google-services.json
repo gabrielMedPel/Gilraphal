@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78011343235",
+    "project_id": "gilraphal-5fe35",
+    "storage_bucket": "gilraphal-5fe35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78011343235:android:e1775eb2869dfd1e36d6b6",
+        "android_client_info": {
+          "package_name": "gabriel.medpel.gilraphal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78011343235-nm0cen86p70lu8qrdosdbdecv3j2lc9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Sce0HWXwCQCAmMmGJna--UUlDxclOYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78011343235-nm0cen86p70lu8qrdosdbdecv3j2lc9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
